@@ -1,0 +1,57 @@
+body{
+    font-family: DFKai-sb;
+}
+
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div.date{
+     text-align: right;
+}
+
+header div{
+    display: flex;
+}
+header div p {
+    padding: 0rem 0.5rem;
+    font-size: 25px;
+}
+.weight{
+    font-weight: bold;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 2rem;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.myH1{
+    font-size: 30px;
+}
+
+div.box{
+    display: flex;
+    
+}
+div.box p {
+    padding: 0rem 0.25rem;
+}
+
+footer{
+    display: flex;
+    position: relative;
+    width: 100%;
+    justify-content: space-around;
+}
+
+
+
